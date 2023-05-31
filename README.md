@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **rksraisul@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Ronnie-Ahmed](https://github.com/Ronnie-Ahmed)
+- 📄 Know about my experiences [https://portfolio-fl2l-it6jpjvhs-ronnie-ahmed.vercel.app/](https://portfolio-fl2l-it6jpjvhs-ronnie-ahmed.vercel.app/)
+
+- 📄 My Resume [https://drive.google.com/file/d/1lKSI432Lae8yKhNebOvDU-P8MNPkSMnF/view](https://drive.google.com/file/d/1lKSI432Lae8yKhNebOvDU-P8MNPkSMnF/view)
 
 - ⚡ Fun fact **The identity of Bitcoin's creator, Satoshi Nakamoto, remains unknown to this day, adding to the mystery and intrigue surrounding the cryptocurrency's origins.**
 
