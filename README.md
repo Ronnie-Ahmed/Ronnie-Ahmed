@@ -4,9 +4,6 @@
 <img align="right" alt="Web3 Developer" width="400" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnie-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ronnie-ahmed" /> </p>
 
-- 🔭 I’m currently working on [Blockchain-Based-Real-Estate-Marketplace(BlockEstate)](https://github.com/Ronnie-Ahmed/Blockchain-Based-Real-Estate-Marketplace)
-
-- 🌱 I’m currently learning **ERC20,ERC721,ERC777,ERC1155,ERC4626,Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ronnie-Ahmed](https://github.com/Ronnie-Ahmed)
 
