@@ -3,7 +3,11 @@
 <h3 align="center">An enthusiastic Web3 Developer from Bangladesh</h3>
 
 
-
+<p align="center">
+  <a href="https://app.daily.dev/ronnieahmed">
+    <img src="https://api.daily.dev/devcards/ac359cd0bcf24616b91509aad272900e.png?r=zml" width="250" alt="Ronnie-Ahmed's Dev Card"/>
+  </a>
+</p>
 - 👨‍💻 All of my projects are available at [https://github.com/Ronnie-Ahmed](https://github.com/Ronnie-Ahmed)
 
 - 💬 Ask me about **React.js , Solidity, Ethers.js,JavaScript,Blockchain_Technology,IPFS,Hardhat**
