@@ -1,8 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Assalamu-Alaikum👋, I'm Ronnie-Ahmed</h1>
 <h3 align="center">An enthusiastic Web3 Developer from Bangladesh</h3>
-<img align="right" alt="Web3 Developer" width="400" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnie-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ronnie-ahmed" /> </p>
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ronnie-Ahmed](https://github.com/Ronnie-Ahmed)
