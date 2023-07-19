@@ -3,22 +3,20 @@
 <h3 align="center">An enthusiastic Web3 Developer from Bangladesh</h3>
 
 
-<p align="center">
-  <a href="https://app.daily.dev/ronnieahmed">
-    <img src="https://api.daily.dev/devcards/ac359cd0bcf24616b91509aad272900e.png?r=zml" width="250" alt="Ronnie-Ahmed's Dev Card"/>
-  </a>
-</p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/Ronnie-Ahmed](https://github.com/Ronnie-Ahmed)
 
-- 💬 Ask me about **React.js , Solidity, Ethers.js,JavaScript,Blockchain_Technology,IPFS,Hardhat**
+- ⚡ Interested in **Solidity(Smart contract Development) , Blockchain, Web3 Development**
 
-- 📫 How to reach me **rksraisul@gmail.com**
+- 💬 Ask me about **React.js, Solidity, Ethers.js, JavaScript, Blockchain_Technology, IPFS, Hardhat, Node js, express js, MongoDB**
+
+- 📫 Actively Looking for a job/Internship **rksraisul@gmail.com**
 
 - 📄 Know about my experiences [My Portfolio](https://portfolio-fl2l.vercel.app/)
 
 - 📄 My Resume [[https://drive.google.com/file/d/1XEWivBHutFws-xvM2uYDK2IWDMWEgcOo/view?usp=sharing](https://drive.google.com/file/d/1iZrZhUX2o1ySIxbwAkfCionqW4y85Jox/view?usp=sharing)]
 
-- ⚡ Fun fact **The identity of Bitcoin's creator, Satoshi Nakamoto, remains unknown to this day, adding to the mystery and intrigue surrounding the cryptocurrency's origins.**
+- ⚡ Fun fact **I am a fucking serious person.**
 
 
 ## 🌐 Socials:
@@ -37,10 +35,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ronnie-Ahmed&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnie-Ahmed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ronnie-Ahmed&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ronnie-Ahmed&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
