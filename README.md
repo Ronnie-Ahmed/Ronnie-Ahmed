@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://portfolio-fl2l.vercel.app/" target="_blank">
-    <img src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif" alt="Animated GIF" width="400" height="400" />
+    <img src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif" alt="Animated GIF" width="300" height="300" />
   </a>
 </div>
 
