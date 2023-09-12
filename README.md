@@ -32,11 +32,20 @@
 
 </div>
 
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-   <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronnie-Ahmed&show_icons=true&theme=radical" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronnie-Ahmed&layout=compact&theme=radical" width="33%" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ronnie-ahmed&theme=dracula" width="33%"  alt="ronnie-ahmed" /></p>
+<a href="https://github.com/Ronnie-Ahmed">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronnie-Ahmed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronnie-Ahmed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronnie-Ahmed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ronnie-Ahmed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronnie-Ahmed&theme=2077" height="180em" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ronnie-Ahmed&theme=github"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
 
 
