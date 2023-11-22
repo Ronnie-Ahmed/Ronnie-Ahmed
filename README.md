@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronnie-Ahmed</h1>
 <h3 align="center">A passionate Blockchain Developer from Bangladesh</h3>
+<p align="center">Check out my portfolio [here](https://portfolio-fl2l.vercel.app/).</p>
+
 
 <div align="center">
   <a href="https://portfolio-fl2l.vercel.app/" target="_blank">
