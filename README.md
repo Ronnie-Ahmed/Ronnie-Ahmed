@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://portfolio-fl2l.vercel.app/" target="_blank">
-    <h5 align="center">Check out my portfolio [🌐]</h5>
+    <p align="center">Check out my portfolio [🌐]</p>
   </a>
 </div>
 
