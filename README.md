@@ -23,10 +23,7 @@
 <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raisul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raisul islam" height="30" width="40" /></a>
-<a href="https://fb.com/ronnie ahmed (raisul)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronnie ahmed (raisul)" height="30" width="40" /></a>
-<a href="https://instagram.com/raisul_ronnie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raisul_ronnie" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ronnie-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ronnie-ahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ronnie-ahmed-a059a7291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raisul islam" height="30" width="40" /></a>
 </p>
 
 
