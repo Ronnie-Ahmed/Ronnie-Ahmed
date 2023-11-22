@@ -19,11 +19,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnie-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ronnie-ahmed" /> </p>
 
 
-<div align="center"> 
-  - 💬 Ask me about <strong>React.js, Solidity, Ethers.js, JavaScript, Blockchain_Technology, IPFS, Hardhat, DEFI, DAO, NFT</strong>
-</div>
-
-
 
 <div align="center">
 <h3 align="left">Connect with me:</h3>
