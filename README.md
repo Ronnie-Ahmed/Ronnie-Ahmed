@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronnie-Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ronnie-Ahmed <a href="https://www.linkedin.com/in/ronnie-ahmed-a059a7291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raisul islam" height="30" width="40" /></a></h1>
 <h3 align="center">Blockchain Developer</h3>
 
 <div align="center">
