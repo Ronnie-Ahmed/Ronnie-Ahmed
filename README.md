@@ -8,18 +8,12 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://portfolio-fl2l.vercel.app/" target="_blank">
     <img src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif" alt="Animated GIF" width="300" height="300" />
   </a>
-</div>
-
-
-
+</div> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnie-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ronnie-ahmed" /> </p>
-
-
-
 <!-- <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +24,6 @@
 
 </div>
 
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Ronnie-Ahmed">
 
