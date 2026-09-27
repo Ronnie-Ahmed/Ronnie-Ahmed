@@ -9,6 +9,9 @@
   <a href="https://portfolio-fl2l.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://leetcode.com/u/Ronnie-Ahmed/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
 <p align="center">
@@ -114,6 +117,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronnie-Ahmed&theme=react&hide_border=true" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Ronnie-Ahmed?theme=dark&font=baloo2&ext=heatmap" height="220em" />
 </div>
 
 ---
