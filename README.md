@@ -19,12 +19,14 @@
 
 ### 🚀 About Me
 
-- 🦀 Backend engineer focused on **Rust** (Axum, Postgres, Redis, WebSockets, JWT auth)
-- ⛓️ Blockchain systems engineer with experience in **DeFi, NFTs, Solidity, Foundry, Hardhat, Ethers.js, Web3.js**
-- 🎓 BSc in Computer Science and Engineering, Bangladesh Army University of Engineering and Technology
-- 🔭 Currently building production-grade Rust APIs: rate limiters, caching layers, real-time chat servers, and a full banking system with atomic transactions
-- 🌱 Constantly leveling up backend fundamentals — concurrency, row-level locking, and system design
-- 💬 Ask me about Rust, Axum, smart contracts, or Web3 tooling
+- ⛓️ Blockchain & Software Engineer building **Rust-based blockchain infrastructure** — Substrate runtimes, custom FRAME pallets, and EVM-compatible chains
+- 🏗️ Professional experience across **Layer 1 blockchain development**, runtime engineering, tokenomics, gas optimization, and cross-chain interoperability
+- 🦀 Backend engineer focused on **Rust** (Axum, Actix, REST APIs) plus **Postgres, Redis, WebSockets, JWT auth**
+- 🧠 Built AI-workload verification (NVIDIA Triton) and hardware-level device identification (OP-TEE) for distributed compute infrastructure
+- 🎓 BSc in Computer Science and Engineering, Bangladesh Army University of Engineering and Technology (CGPA 3.28)
+- 🔭 Currently at **Eterces**, reviewing and contributing to Rust/Substrate blockchain projects
+- 🌱 Also building production-grade Rust APIs on the side: rate limiters, caching layers, real-time chat servers, and a full banking system
+- 💬 Ask me about Rust, Substrate, Polkadot SDK, smart contracts, or Web3 tooling
 
 ---
 
@@ -34,23 +36,34 @@
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 **Blockchain & Web3**
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Substrate-282828?style=for-the-badge&logo=polkadot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polkadot%20SDK-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FRAME%20Pallets-282828?style=for-the-badge&logo=polkadot&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" />
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Substrate-282828?style=for-the-badge&logo=polkadot&logoColor=white" />
 </p>
 
-**Frontend & Tools**
+**Infra & Tools**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OP--TEE-4B0082?style=for-the-badge&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -59,15 +72,32 @@
 
 ### 📌 Featured Projects
 
+**Blockchain & Infrastructure (Professional)**
+
 | Project | Description |
 |---|---|
-| **Banking System** | Rust/Axum capstone emphasizing atomic transactions and row-level locking for concurrency-safe transfers |
+| **Argochain** | Substrate-based Layer 1 blockchain with EVM compatibility — contributed to tokenomics, runtime upgrades, token-burn mechanism, and dead-address functionality; helped resolve critical issues from a Hacken security audit |
+| **Cyborg Parachain & Cyborg Miner** | Decentralized AI-workload infrastructure — integrated NVIDIA Triton with the Substrate runtime for on-chain verification of off-chain AI inference, and OP-TEE-based hardware device identification for anti-spoofing |
+| **Custom Payment & Miner-Reward Pallets** | FRAME pallets for a Substrate parachain supporting multiple payment models and a dual-currency (native-token + fiat) miner incentive system |
+
+**Rust Backend (Personal Builds)**
+
+| Project | Description |
+|---|---|
+| **Banking System** | Rust/Axum project emphasizing atomic transactions and row-level locking for concurrency-safe transfers |
 | **Crypto Watchlist & Price Alert API** | JWT-auth Rust/Axum API with Postgres-backed watchlists and live CoinGecko price fetching |
 | **GitHub Repo Tracker** | Rust/Axum service with auth, Postgres-backed tracked repos, and GitHub API stats |
 | **WebSocket Chat Server** | Real-time Rust/Axum chat server with a global room and Postgres-persisted messages |
 | **Product Catalog API** | Rust/Axum API using Redis cache-aside caching in front of Postgres |
 
-*(Swap in your repo links once each project is pushed to GitHub.)*
+*(Swap in repo links once each project is pushed to GitHub.)*
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Ranked 14th of 400 participants — Dapp-World Optimized Smart Contract Development Challenge
+- 🏆 Champions — MindStorm 4.0 Software Showcasing Competition (BAUET Computer Society, 2022)
 
 ---
 
