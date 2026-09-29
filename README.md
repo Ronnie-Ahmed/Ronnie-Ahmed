@@ -3,13 +3,15 @@
 <h4 align="center">Building backend systems in Rust/Axum and smart-contract tooling across Web3</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-raisul-islam-rony-a059a7291/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-raisul-islam-rony-a059a7291/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://portfolio-green-iota-43.vercel.app/]" target="_blank">
+
+  <a href="https://portfolio-green-iota-43.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://leetcode.com/u/Ronnie-Ahmed/" target="_blank">
+
+  <a href="https://leetcode.com/u/Ronnie-Ahmed/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
