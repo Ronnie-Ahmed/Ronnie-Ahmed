@@ -95,7 +95,7 @@
 | **WebSocket Chat Server** | Real-time Rust/Axum chat server with a global room and Postgres-persisted messages |
 | **Product Catalog API** | Rust/Axum API using Redis cache-aside caching in front of Postgres |
 
-*(Swap in repo links once each project is pushed to GitHub.)*
+
 
 ---
 
