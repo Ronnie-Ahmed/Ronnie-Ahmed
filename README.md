@@ -31,7 +31,7 @@
 - 🎓 BSc in Computer Science and Engineering, Bangladesh Army University of Engineering and Technology (CGPA 3.28)
 - 🔭 Currently at **Eterces**, reviewing and contributing to Rust/Substrate blockchain projects
 - 🌱 Also building production-grade Rust APIs on the side: rate limiters, caching layers, real-time chat servers, and a full banking system
-- 💬 Ask me about Rust, Substrate, Polkadot SDK, smart contracts, or Web3 tooling
+- 💬 Ask me about Rust, Substrate, Polkadot SDK, smart contracts, or Web3 tooling .
 
 ---
 
